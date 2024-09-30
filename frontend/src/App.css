@@ -11,6 +11,15 @@ body {
   font-family: aeonik;
 }
 
+@font-face {
+  font-family: aeonik-regular;
+  src: url(./assets/fonts/AeonikTRIAL-Regular.otf);
+}
+
+.font-aeonik-regular {
+  font-family: aeonik-regular;
+}
+
 .wave {
   position: absolute;
   width: 100%;
